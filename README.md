@@ -2,7 +2,7 @@
 # Boas vindas ao repositório do projeto All For One
 
 <details>
-  <summary><strong>👨‍💻 O que deverá ser desenvolvido</strong></summary><br />
+  <summary><strong>👨‍💻 O que foi desenvolvido</strong></summary><br />
   
  O projeto foi desenvolvido durante o curso da Trybe com objetivo de colocar em prática conceitos de desenvolvimento Back-end com o banco de dados MySQL e treinar a escrita de CRUDE.
 
@@ -14,6 +14,7 @@ Hoje você fará um projeto com o codinome *All For One* em que praticará todos
 
 - Individual.
 - `1` dia de projeto.
+- Porcentagem de requisitos entregues 100%
   </details>
 
 # Requisitos do projeto
